@@ -1,19 +1,41 @@
 # 🎮 Gamer's Paradise
 
-Projeto de um site de jogos desenvolvido utilizando **HTML, CSS e Bootstrap**.  
-O objetivo do projeto é apresentar categorias de jogos e permitir que usuários naveguem pelas páginas e realizem cadastro na plataforma.
+Este projeto consiste em um site visual sobre jogos, desenvolvido utilizando HTML, CSS e Bootstrap.
 
-## 📌 Funcionalidades
+O site não executa jogos diretamente. Ele foi criado com o objetivo de praticar conceitos de desenvolvimento web e demonstrar a construção de um pequeno site organizado em diferentes páginas.
 
-- Página inicial com navegação para as categorias de jogos
-- Página dedicada para **jogos de ação**
-- Página dedicada para **jogos de aventura**
-- Página de **cadastro de usuários**
-- Interface responsiva utilizando **Bootstrap**
-- Estilização personalizada com **CSS**
+Além disso, o projeto apresenta jogos de forma visual, funcionando como uma vitrine ou catálogo online.
 
-## 🛠️ Tecnologias Utilizadas
+**Objetivos do Projeto:**
 
-- HTML5
-- CSS3
-- Bootstrap 5
+Praticar conceitos fundamentais de desenvolvimento web, como:
+
+Estruturação de páginas utilizando HTML
+
+Estilização utilizando CSS
+
+Uso de Bootstrap para criação de layout responsivo
+
+Organização de múltiplas páginas em um pequeno site
+
+**Funcionalidades:**
+
+Página inicial com navegação do site
+
+Página com jogos da categoria Ação
+
+Página com jogos da categoria Aventura
+
+Página de cadastro de usuário
+
+Layout visual organizado utilizando Bootstrap
+
+Estilização personalizada com CSS
+
+**Tecnologias Utilizadas:**
+
+HTML5
+
+CSS3
+
+Bootstrap
