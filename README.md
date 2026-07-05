@@ -26,7 +26,7 @@ Página com jogos da categoria Ação
 
 Página com jogos da categoria Aventura
 
-Página de cadastro de usuário
+Página de cadastro e login de usuário
 
 Layout visual organizado utilizando Bootstrap
 
