@@ -1,10 +1,41 @@
-body {
-    background-color: rgb(53, 53, 53);
+body{
+
+    font-family:'Exo 2',sans-serif;
+    min-height:100vh; 
+    background: linear-gradient(180deg,#202020,#121212);
 
 }
-
 
 .navbar {
     margin-bottom: 20px;
     
 }
+
+.direitos{
+    color: gray; 
+    font-size: 12px;
+}
+
+
+
+#barra {
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    }
+
+#entrar {
+    border-radius: 5px;
+    border: none;
+
+}
+
+footer {
+    margin-top: 20px;
+
+}
+
+footer a {
+    text-decoration: none;
+}
+
