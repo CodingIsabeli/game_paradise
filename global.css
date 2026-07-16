@@ -78,3 +78,61 @@ footer a {
   border-radius: 30px;
   height: 350px;
 }
+
+.card-title {
+  color: #000000;
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+.card-description {
+  color: #000000;
+  font-size: 15px;
+  text-align: justify;
+}
+
+.cardtitulo {
+  color: #000000;
+  /* position: absolute; */
+  padding-top: 180px;
+  text-align: center;
+  font-size: 18px;
+}
+
+#bt {
+  width: 100%;
+  border-radius: 25px;
+}
+
+
+#btt {
+  width: 50%;
+  display: block;
+  justify-content: center;
+  align-items: center;
+}
+
+#nomes {
+  text-decoration: none;
+  color: black;
+}
+
+.equipe {
+  display: flex;
+  justify-content: space-around;
+  color: black;
+}
+
+#icrodape {
+  display: inline-block;
+  justify-content: space-around;
+  color: black;
+}
+
+#bt {
+  background-color: #202020;
+}
+
+
+/* conteudo do index1 css */
+
